@@ -1,4 +1,4 @@
-# Monkeypox-Research-Activity-Tracker
+# Monkeypox Research Activity Tracker
 __________________________________________________________________________
 ### Problem Statement
 
