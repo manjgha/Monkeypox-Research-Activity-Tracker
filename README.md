@@ -7,7 +7,6 @@ The global response to the mpox outbreak has involved numerous research initiati
 - Difficulty identifying research gaps and redundancies
 - Insuffiecient information on project timelines and completion forecasts
 - Challenges in resource allocation and prioritization of research areas
-- Limited ability to coordinate international research collaboration
 - Inefficient monitoring of research progress and outcomes
 
 The "Monkeypox Research Activity Tracker" addresses these challenges by providing a centralized, comprehensive visual analytics platform that enables stakeholders to monitor, analyze, and coordinate mpox research activities globally.
